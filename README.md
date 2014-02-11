@@ -1,7 +1,7 @@
 ###Discrete wavelet transform
 =======
 ####Usage 
-`image = imread('tom.png');`
+`image = imread('wool.png');`
 
 `[coefficients, images] = wavelet(image, 1, 1);`
 
